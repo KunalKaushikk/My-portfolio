@@ -95,4 +95,4 @@ Intermediate
 
 ========== FOOTER ==========
 .footer__copy
-&#169; Bedimcode. All rigths reserved
+All rigths reserved
