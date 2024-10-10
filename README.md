@@ -9,3 +9,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
+Deployed on vercel
+https://kkportfolio-kappa.vercel.app/
